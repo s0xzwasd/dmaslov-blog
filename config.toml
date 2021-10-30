@@ -1,0 +1,4 @@
+theme = "congo"
+baseURL = 'https://dmaslov.dev/'
+languageCode = 'en-us'
+title = 'Daniil Maslov – All about programming: Go'
