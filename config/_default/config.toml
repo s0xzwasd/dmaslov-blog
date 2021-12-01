@@ -3,8 +3,8 @@ baseURL = "https://dmaslov.dev/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Daniil Maslov | Software Engineering Notes"
-copyright = "Daniil Maslov :thinking_face:"
+title = "Daniil Maslov · Software Engineering Notes"
+copyright = "s0xzwasd :whale:"
 
 enableEmoji = true
 enableRobotsTXT = true
